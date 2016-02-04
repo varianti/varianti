@@ -1,0 +1,18 @@
+{
+  "name": "varianti",
+  "version": "0.0.1",
+  "description": "real estate web portal",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./bin/www"
+  },
+  "keywords": [
+    "real",
+    "estate",
+    "portal",
+    "property",
+    "sales"
+  ],
+  "author": "Riga Realty Media",
+  "license": "Apache"
+}
