@@ -18,5 +18,9 @@
   "license": "Apache",
   "bugs": {
     "url": "https://github.com/varianti/varianti/issues"
+  },
+  "dependencies": {
+    "body-parser": "~1.14.2",
+    "underscore": "~1.8.3"
   }
 }
