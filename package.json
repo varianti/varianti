@@ -14,5 +14,15 @@
     "sales"
   ],
   "author": "Riga Realty Media",
+    "repository": {
+	"type": "git",
+	"url": "git://github.com/varianti/varianti.git"
+    }
   "license": "Apache"
+
+    "dependencies: {
+	"body-parser": "^1.13.2",
+	"express": "^4.13.4",
+	"underscore": "^1.8.3"
+}
 }
